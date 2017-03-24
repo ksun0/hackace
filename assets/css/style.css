@@ -4,12 +4,12 @@
 
 @media (min-width: 992px) {
   .hackace-logo {
-    height: 400px;
+    height: 300px;
   }
 }
 
 @media (max-width: 991px) {
   .hackace-logo {
-    height: 200px;
+    height: 150px;
   }
 }
